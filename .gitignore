@@ -1,0 +1,7 @@
+.vs/
+x64/
+smart_pointer/x64/
+smart_pointer/smart_pointer.vcxproj.user
+smart_pointer/smart_pointer.vcxproj.filters
+smart_pointer/smart_pointer.vcxproj
+*.sln
